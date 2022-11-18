@@ -1,0 +1,7 @@
+com\roytuts\spring\mvc\jdbc\controller\UserDetailController.class
+com\roytuts\spring\mvc\jdbc\model\UserDetail.class
+com\roytuts\spring\mvc\jdbc\dao\impl\UserDetailDaoImpl.class
+com\roytuts\spring\mvc\jdbc\service\UserDetailService.class
+com\roytuts\spring\mvc\jdbc\rowmapper\UserDetailRowMapper.class
+com\roytuts\spring\mvc\jdbc\dao\UserDetailDao.class
+com\roytuts\spring\mvc\jdbc\service\impl\UserDetailServiceImpl.class
